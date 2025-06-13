@@ -2,7 +2,7 @@
 
 ## Demo
 
-Live demo will be available soon.
+[Live Demo](https://test-task-recipe-finder.netlify.app/)
 
 ## Project Description
 
@@ -58,3 +58,15 @@ npm run dev
 ```
 
 ### Open your browser at http://localhost:3000
+
+## Images
+
+### Home page
+
+![Description 1](https://ibb.co/YB4hgsgn)
+
+### Search list
+![Description 2](https://ibb.co/qFVPGjZs)
+
+### Recipe details
+![Description 3](https://ibb.co/ccmNBGx4)
