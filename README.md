@@ -63,10 +63,10 @@ npm run dev
 
 ### Home page
 
-![Description 1](https://ibb.co/YB4hgsgn)
+![Description 1](https://i.ibb.co/JjWHZJZ6/2025-06-13-17-07-43.png)
 
 ### Search list
-![Description 2](https://ibb.co/qFVPGjZs)
+![Description 2](https://i.ibb.co/n8t52mWc/2025-06-13-17-08-09.png)
 
 ### Recipe details
-![Description 3](https://ibb.co/ccmNBGx4)
+![Description 3](https://i.ibb.co/kgdh7RMN/2025-06-13-17-08-25.png)
